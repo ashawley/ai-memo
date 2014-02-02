@@ -1,4 +1,4 @@
-Artificial Intelligence Project -- ??? and ??? Computation Center
+Artificial Intelligence Project -- RLE and MIT Computation Center
 Memo 57--
 
                      _MACRO_Definitions_for_LISP_
